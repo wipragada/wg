@@ -1197,7 +1197,7 @@ a:hover {
 /*------ about wrapper css -------*/
 .dm_about_wrapper{
 	padding:100px 0;
-	float:left; width:100%;
+	width:100%;
 	background:#111111;
 }
 .muzieknootjes {
